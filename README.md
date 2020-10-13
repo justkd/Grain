@@ -1,6 +1,6 @@
 # Grain
  
-### [This is an old, archived project. It was once available on the iOS app store, but it has not been recently maintained or updated.]
+### [This is an old, archived project.]
 
 Grain is a digital musical instrument app. It uses granular synthesis techniques to create novel, performable sound scapes via 3D touch and motion. It also has two different use modes: controller and player. In controller mode, a second device also running Grain can be connected via wifi and used to further manipulate the sounds played by the first device.
 
